@@ -8,6 +8,6 @@ def main(page: ft.Page):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    ft.app(target=main, view=ft.WEB_BROWSER, port=30033)
+    ft.app(target=main, view=ft.WEB_BROWSER, port=30032)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
